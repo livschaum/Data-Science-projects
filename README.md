@@ -1,6 +1,6 @@
-## Projetos aplicados de Data Science
+# Projetos aplicados de Data Science
 
-# Rancimat
+## Rancimat
 
 Projeto de aprendizado de máquina com controle de qualidade de biocombustíveis.
 Foi um trabalho desenvolvido para a disciplina Seminário em Data Science, pelo Curso de Especialização em Big data, Data Science e Data Analytics da Universidade do Vale do Rio dos Sinos - UNISINOS
