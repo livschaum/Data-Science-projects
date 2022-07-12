@@ -4,7 +4,7 @@ foram aplicadas para resolver diferentes problemas de negócios e
 também para meu aprendizado das ferramentas e linguagem Python
 
 ## Projetos para formações e cursos
-### Rancimat (Rancimat.ipynb)
+### Rancimat (main/Rancimat.ipynb)
 
 Projeto de aprendizado de máquina para controle de qualidade
 de biocombustíveis. Foi um trabalho desenvolvido para a
