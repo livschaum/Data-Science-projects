@@ -4,7 +4,7 @@ foram aplicadas para resolver diferentes problemas de negócios e
 também para meu aprendizado das ferramentas e linguagem Python
 
 ## Projetos para formações e cursos
-### Rancimat (Rancimat.ipynb)
+### Rancimat ([notebook](https://github.com/livschaum/Data-Science-projects/blob/main/Rancimat.ipynb))
 
 Projeto de aprendizado de máquina para controle de qualidade
 de biocombustíveis. Foi um trabalho desenvolvido para a
@@ -14,4 +14,4 @@ da Universidade do Vale do Rio dos Sinos - UNISINOS
 
 O objetivo foi obter um modelo para predição da estabilidade de amostras de biodiesel por meio de ferramentas de machine learning.
 
-## Wine_quality (Wine_quality.ipynb)
+### Wine_quality ([notebook](https://github.com/livschaum/Data-Science-projects/blob/main/Wine_quality.ipynb))
